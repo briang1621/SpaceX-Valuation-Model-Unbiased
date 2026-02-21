@@ -1,3 +1,5 @@
+![SpaceX Valuation Model Unbiased Analysis Brian Scott Glassman](https://raw.githubusercontent.com/briang1621/SpaceX-Valuation-Model-Unbiased/refs/heads/main/image1.webp)
+
 # SpaceX-Valuation-Model-Unbiased
 
 ## About the Article
